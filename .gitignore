@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/SuperDigital.ContaCorrente
+/src/SuperDigital.ContaCorrente/obj
+/src/SuperDigital.ContaCorrente/bin/Debug/netcoreapp3.1
+/src/SuperDigital.ContaCorrente/.vs/SuperDigital.ContaCorrente
+/src/SuperDigital.ContaCorrente/SuperDigital.ContaCorrente.API.csproj.user
+/src/SuperDigital.ContaCorrente.Domain/obj
+/src/SuperDigital.ContaCorrente.Domain/bin/Debug/netcoreapp3.1
+/src/SuperDigital.ContaCorrente.Infra.CrossCutting.IoC/obj
+/src/SuperDigital.ContaCorrente.Infra.CrossCutting.IoC/bin/Debug/netcoreapp3.1
+/src/SuperDigital.ContaCorrente.Infra.Data/obj
+/src/SuperDigital.ContaCorrente.Infra.Data/bin/Debug/netcoreapp3.1
+/src/SuperDigital.ContaCorrente.Test/obj
+/src/SuperDigital.ContaCorrente.Test/bin/Debug/netcoreapp3.1
